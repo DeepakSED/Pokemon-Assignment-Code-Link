@@ -1,0 +1,22 @@
+#Father{
+    box-shadow: 20px 20px 20px 20px gray;
+    border-radius: 20px;
+    padding:10px;
+    width: 25vh;
+    height: 40vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 229, 229);
+    text-align: center;
+}
+.img-container{
+    padding: 20px;
+    background: white;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.number{
+    background: rgb(241, 235, 235)
+    padding: 0 5px 0 5px;
+    border-radius: 5px;
+}
